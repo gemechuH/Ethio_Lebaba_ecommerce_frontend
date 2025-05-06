@@ -60,10 +60,10 @@ const Navbar = () => {
       title: "Dashboard",
       path: "/dashboard",
     },
-    { title: "Manage Items", path: "dashboard/manage-products" },
+    { title: "Manage Products", path: "dashboard/manage-products" },
     { title: "All orders", path: "dashboard/manage-orders" },
     
-    { title: "Add product", path: "dashboard/add-new-product" },
+    { title: "Add products", path: "dashboard/add-new-product" },
     { title: "all users", path: "dashboard/users" },
     { title: "logout", onClick: handleLogout },
   ];
