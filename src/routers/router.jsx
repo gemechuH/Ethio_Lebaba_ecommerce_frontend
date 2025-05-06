@@ -100,8 +100,8 @@ const routerA = createBrowserRouter([
         path: "manage-products",
         element: (
           <PrivateRoute role="admin">
-            <ManageProduct/>
-            
+            {/* <ManageProduct/> */}
+            <div>manage product</div>
           </PrivateRoute>
         ),
       },
