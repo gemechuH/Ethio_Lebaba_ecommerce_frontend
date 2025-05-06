@@ -20,7 +20,7 @@ import ManageUser from "../pages/dashboard/admin/manageUser/ManageUser";
 import UpdateProduct from "../pages/dashboard/admin/manageProduct/UpdateProduct";
 import UserPayments from "../pages/dashboard/user/UserPayments";
 import UserProfile from "../pages/dashboard/UserProfile";
-import ManageProduct from "../pages/dashboard/admin/manageProduct/manageProduct";
+// import ManageProduct from "../pages/dashboard/admin/manageProduct/manageProduct";
 
 const routerA = createBrowserRouter([
   {
